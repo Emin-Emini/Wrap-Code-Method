@@ -2,6 +2,8 @@
 
 **From Chaos to Clarity: A Practical Guide to Structuring SwiftUI Code**
 
+![Wrap Code Method](./images/WrapCodeMethod-IMG.jpg)
+
 Imagine this: You open an old SwiftUI project, and within moments, you're lost in a labyrinth of unorganized code. Sounds familiar? Don't worry—you're not alone. Whether you're a senior developer or just starting out, writing clean, maintainable code can be challenging.
 
 If you've been coding for a while, chances are you've come across some messy projects where everything was unorganized and hard to maintain. A clean structure helps you stay productive and makes your codebase maintainable in the long run.
